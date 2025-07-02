@@ -1,6 +1,6 @@
 # 🚀 Smart-Text-to-Image-Generator
 
-![Smart-Text-to-Image-Generator](assets/screenshot.png)
+![Smart-Text-to-Image-Generator](assets/testimage2.png)
 
 Smart-Text-to-Image-Generator is a user-friendly web application for generating high-quality images from text prompts using the latest Stable Diffusion models.  
 Built with **Gradio** and **Diffusers**, it features smart model caching and runs on GPU for maximum performance!
@@ -40,7 +40,6 @@ Built with **Gradio** and **Diffusers**, it features smart model caching and run
 
 ## 📸 Screenshots
 > ![Screenshot](assets/testimage1.png)
-> ![Screenshot](assets/testimage2.png)
 
 ## ⚙️ Usage Guide
 
