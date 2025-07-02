@@ -36,7 +36,7 @@ Built with **Gradio** and **Diffusers**, it features smart model caching and run
 
 ## 🎬 Demo Video
 
-[▶️ Click here to watch the demo (MP4, 1.3MB)](assets/test_video.mp4)
+[▶️ Click here to watch the demo (MP4, 1.7MB)](assets/test_video.mp4)
 
 ## 📸 Screenshots
 > ![Screenshot](assets/testimage1.png)
